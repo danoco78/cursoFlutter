@@ -1,6 +1,6 @@
-# componente_01
+# Conceptos y Elementos básicos de Flutter
 
-A new Flutter project.
+Primera sección del curso que estoy haciendo, permite comprender la manera en que los elementos deben ser organizados en el árbol de widget y cuales son los mínimos elementos necesarios para para que una aplicación pueda funcionar y mostrar contenido estático en pantalla.
 
 ## Getting Started
 
